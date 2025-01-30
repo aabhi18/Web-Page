@@ -1,4 +1,4 @@
-# Initializr - Documentation
+# Initializr - Documentation detailed
 
 ## Download or Print
 
